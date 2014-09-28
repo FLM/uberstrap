@@ -1,0 +1,2 @@
+flm_uberstrap:
+    resource: @FLMUberstrapBundle/Resources/config/routing.yml
